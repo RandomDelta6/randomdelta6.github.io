@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:8080/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:8080/" rel="alternate" type="text/html" /><updated>2020-04-04T18:42:15+05:30</updated><id>http://localhost:8080/feed.xml</id><title type="html">Rishav Dutta</title><subtitle>Adding a dash of color in a world of bits and bytes</subtitle><author><name>Rishav Dutta</name><email>rishavdutta006@gmail.com</email></author><entry><title type="html">Curriculum Vitae</title><link href="http://localhost:8080/cv" rel="alternate" type="text/html" title="Curriculum Vitae" /><published>2020-04-04T13:39:32+05:30</published><updated>2020-04-04T13:39:32+05:30</updated><id>http://localhost:8080/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:8080/cv">&lt;p&gt;&lt;img src=&quot;/assets/img/pro.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;b&gt;Hello&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;I’m Rishav Dutta&lt;/p&gt;
+
+&lt;h4&gt;&lt;b&gt;Awards&lt;/b&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;1st place in Iot-fi Competition ,2020&lt;/li&gt;
+  &lt;li&gt;2nd place in Inquizzmania ,2019&lt;/li&gt;
+  &lt;li&gt;2nd place in Interhouse Programming Competition ,2016&lt;/li&gt;
+  &lt;li&gt;3rd place in Interhouse Bengali Debate ,2016&lt;/li&gt;
+  &lt;li&gt;3rd place in Interhouse art competition ,2015&lt;/li&gt;
+  &lt;li&gt;2nd place in Inter house Poetry Writing Competition ,2011&lt;/li&gt;
+  &lt;li&gt;2nd in Interhouse Art competition ,2011&lt;/li&gt;
+  &lt;li&gt;3rd Place in Interhouse English Debate, 2011&lt;/li&gt;
+  &lt;li&gt;1st place In Choral Recitation , 2010&lt;/li&gt;
+  &lt;li&gt;2nd place in Interhouse Collage Competition ,2010&lt;/li&gt;
+  &lt;li&gt;Participated In Cern BL4S,2019&lt;/li&gt;
+  &lt;li&gt;Participated In Cern BL4S,2018&lt;/li&gt;
+  &lt;li&gt;Participated In Google Science Fair,2019&lt;/li&gt;
+  &lt;li&gt;Participated In Google Science Fair,2017&lt;/li&gt;
+  &lt;li&gt;Participated in Annual School Science Fair,2017&lt;/li&gt;
+  &lt;li&gt;Participated in Annual School Coders and Hackers Meet,2017&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;&lt;b&gt;Skills&lt;/b&gt; &lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good in spoken and written English.&lt;/li&gt;
+  &lt;li&gt;Enthusiastic about learning new skills&lt;/li&gt;
+  &lt;li&gt;Quick learner&lt;/li&gt;
+  &lt;li&gt;Basic level coding skills with a keen interest to acquire more&lt;/li&gt;
+  &lt;li&gt;Good at Team Work and Motivating people.&lt;/li&gt;
+  &lt;li&gt;Experience&lt;/li&gt;
+  &lt;li&gt;Junior Editor for School News letter&lt;/li&gt;
+  &lt;li&gt;House representative for Interhouse Story telling competition&lt;/li&gt;
+  &lt;li&gt;House representative for Creative writing&lt;/li&gt;
+  &lt;li&gt;GitHub profile &lt;a href=&quot;https://github.com/RandomDelta6&quot;&gt;RandomDelta6&lt;/a&gt; (No commits yet)&lt;/li&gt;
+  &lt;li&gt;XDA senior member &lt;a href=&quot;https://forum.xda-developers.com/member.php?u=9694557&quot;&gt;RandomDelta&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Voted Most active bug reporter for Lawnchair v2 on telegram group. @RandomDelta6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;&lt;b&gt;Education&lt;/b&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;2017 -  2019  &lt;br /&gt;
+Delhi Public School, Ruby Park, Kolkata - Till Class 12  &lt;br /&gt;
+Highly regarded student with consistent academic performance. Co hosted -Mathematics Club meet for the annual session of 2017-18&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2005 -  2017&lt;br /&gt;
+The Frank Anthony Public School, Kolkata - Till Class 10&lt;br /&gt;
+Highly esteemed student in this Anglo-Indian School with contribution in several co - curricular activities. Was the top scorer in school for Icse examination for 2017&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Rishav</name></author><summary type="html"></summary></entry><entry><title type="html">Initial Blog Post</title><link href="http://localhost:8080/blog/new/" rel="alternate" type="text/html" title="Initial Blog Post" /><published>2020-04-02T09:19:47+05:30</published><updated>2020-04-02T09:19:47+05:30</updated><id>http://localhost:8080/blog/new-test-blog</id><content type="html" xml:base="http://localhost:8080/blog/new/">&lt;p&gt;&lt;img src=&quot;/assets/img/header.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a demo blog to illustrate my CV.
+This was created on 4 April, 2020 using Ruby Gems and Jekyll.&lt;/p&gt;
+
+&lt;p&gt;A little bit about me.&lt;br /&gt;
+I am a first year student at Kalyani Goverenment Engineering College and currently an intern for the Developer’s Club.&lt;br /&gt;
+My hobbies include drawing/sketching, Reading story books,tinkering with gadgets, disassembling them and trying to put them back together , apply various modifications to it, watching movies and gardening.&lt;br /&gt;
+I am really enthusiastic about learning new skills and working with people on shared projects.&lt;/p&gt;</content><author><name>Rishav</name></author><summary type="html"></summary></entry></feed>
